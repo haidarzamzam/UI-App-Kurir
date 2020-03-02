@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AndroidIDN</string>
+
+    <string-array name="data_num">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Andreas Susanto</item>
+        <item>Rizvan Atrianto</item>
+        <item>Susanto Sujiwo</item>
+        <item>Hendrawan Rifki</item>
+        <item>Jhon Paijo</item>
+        <item>Nick Jhon</item>
+    </string-array>
+
+
+    <string-array name="data_receipt">
+        <item>GT9J93382</item>
+        <item>GT6J93RQ5</item>
+        <item>GT0J92348</item>
+        <item>GT1J9SF73</item>
+        <item>GT2J92387</item>
+        <item>GT63RQ5A2</item>
+    </string-array>
+
+    <string-array name="data_address">
+        <item>2,3km • Jl. Kenanga no.7, Mojolangu, Malang</item>
+        <item>2,5km • Jl. Rambutan no.7, Mojolangu, Malang</item>
+        <item>2,6km • Jl. Surabaya no.7, Mojolangu, Malang</item>
+        <item>3,3km • Jl. Ijen no.7, Mojolangu, Malang</item>
+        <item>4,3km • Jl. Bromo no.7, Mojolangu, Malang</item>
+        <item>6,3km • Jl. Semeru no.7, Mojolangu, Malang</item>
+    </string-array>
+
+    <string-array name="data_image">
+        <item>https://media.suara.com/pictures/480x260/2019/07/27/10492-ilustrasi-box-paket-amazon-pixabayjosemiguels.jpg</item>
+        <item>https://media.suara.com/pictures/480x260/2019/07/27/10492-ilustrasi-box-paket-amazon-pixabayjosemiguels.jpg</item>
+        <item>https://media.suara.com/pictures/480x260/2019/07/27/10492-ilustrasi-box-paket-amazon-pixabayjosemiguels.jpg</item>
+        <item>https://media.suara.com/pictures/480x260/2019/07/27/10492-ilustrasi-box-paket-amazon-pixabayjosemiguels.jpg</item>
+        <item>https://media.suara.com/pictures/480x260/2019/07/27/10492-ilustrasi-box-paket-amazon-pixabayjosemiguels.jpg</item>
+        <item>https://media.suara.com/pictures/480x260/2019/07/27/10492-ilustrasi-box-paket-amazon-pixabayjosemiguels.jpg</item>
+    </string-array>
+</resources>
