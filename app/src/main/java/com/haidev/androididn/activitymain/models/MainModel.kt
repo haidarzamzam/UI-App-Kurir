@@ -1,4 +1,4 @@
-package com.haidev.androididn.main.models
+package com.haidev.androididn.activitymain.models
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

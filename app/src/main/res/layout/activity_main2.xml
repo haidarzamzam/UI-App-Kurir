@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/maps"
-    tools:context=".main2.views.Main2Activity">
+    tools:context=".activitymain2.views.Main2Activity">
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/close"
@@ -13,7 +13,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="36dp"
         android:background="@drawable/bg_close"
-        android:drawableStart="@drawable/ic_close_black_24dp"
+        android:drawableStart="@drawable/ic_close"
         android:drawablePadding="4dp"
         android:gravity="center_vertical"
         android:paddingStart="12dp"

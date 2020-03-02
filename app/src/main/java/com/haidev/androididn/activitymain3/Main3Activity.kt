@@ -1,4 +1,4 @@
-package com.haidev.androididn.main3
+package com.haidev.androididn.activitymain3
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,7 +9,7 @@ import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.request.RequestOptions
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.haidev.androididn.R
-import com.haidev.androididn.main4.Main4Activity
+import com.haidev.androididn.activitymain4.Main4Activity
 import kotlinx.android.synthetic.main.activity_main3.*
 import kotlinx.android.synthetic.main.layout_bottomsheet.view.*
 

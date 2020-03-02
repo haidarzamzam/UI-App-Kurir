@@ -1,4 +1,4 @@
-package com.haidev.androididn.main.views
+package com.haidev.androididn.activitymain.views
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,9 +6,9 @@ import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.haidev.androididn.R
-import com.haidev.androididn.main.adapters.ItemMainAdapter
-import com.haidev.androididn.main.models.MainModel
-import com.haidev.androididn.main2.views.Main2Activity
+import com.haidev.androididn.activitymain.adapters.ItemMainAdapter
+import com.haidev.androididn.activitymain.models.MainModel
+import com.haidev.androididn.activitymain2.views.Main2Activity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

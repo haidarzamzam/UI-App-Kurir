@@ -1,4 +1,4 @@
-package com.haidev.androididn.main4
+package com.haidev.androididn.activitymain4
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

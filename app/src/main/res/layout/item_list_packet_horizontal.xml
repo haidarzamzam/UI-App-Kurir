@@ -17,30 +17,35 @@
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvName"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Andreas Susanto"
             android:textColor="#292F3D"
+            android:layout_toStartOf="@id/ivMain"
             android:textStyle="bold" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvReceipt"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/tvName"
             android:layout_marginTop="4dp"
             android:text="No. Resi: GT2J93RQ5"
             android:textColor="#292F3D"
+            android:layout_toStartOf="@id/ivMain"
             android:textSize="10sp" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvAddress"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/tvReceipt"
             android:layout_marginTop="8dp"
             android:text="2,3km • Jl. Kenanga no.7, Mojolangu, Malang"
             android:textColor="#292F3D"
+            android:layout_toStartOf="@id/ivMain"
+            android:ellipsize="end"
+            android:maxLines="1"
             android:textSize="10sp" />
 
 
@@ -52,6 +57,6 @@
             android:layout_centerVertical="true"
             android:background="@drawable/bg_image"
             android:scaleType="centerCrop"
-            android:src="@drawable/paket_1" />
+            android:src="@drawable/paket" />
     </RelativeLayout>
 </RelativeLayout>

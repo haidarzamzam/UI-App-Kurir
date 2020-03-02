@@ -5,14 +5,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".main3.Main3Activity">
+    tools:context=".activitymain3.Main3Activity">
 
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/close"
         android:layout_width="34dp"
         android:layout_height="34dp"
         android:padding="5dp"
-        android:src="@drawable/ic_keyboard_arrow_left_black_24dp" />
+        android:src="@drawable/ic_arrow" />
 
     <androidx.appcompat.widget.AppCompatTextView
         android:layout_width="wrap_content"
@@ -131,7 +131,7 @@
         <androidx.appcompat.widget.AppCompatTextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:drawableStart="@drawable/ic_info_outline_black_24dp"
+            android:drawableStart="@drawable/ic_info"
             android:drawablePadding="10dp"
             android:gravity="center_vertical"
             android:text="Kamu akan mendapatkan 10 poin setelah konfirmasi"
